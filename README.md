@@ -1,1 +1,1 @@
-# react-crud-exam
+# 참고용 리액트 기본 CRUD 예제
